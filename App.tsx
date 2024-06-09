@@ -51,6 +51,7 @@ function Section({children, title}: SectionProps): React.JSX.Element {
         ]}>
         {children}
       </Text>
+      <Text>aaa</Text>
     </View>
   );
 }
