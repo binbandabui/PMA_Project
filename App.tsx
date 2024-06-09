@@ -51,7 +51,8 @@ function Section({children, title}: SectionProps): React.JSX.Element {
         ]}>
         {children}
       </Text>
-      <Text>aaa</Text>
+      <Text>aabasd</Text>
+      <Text>aa</Text>
     </View>
   );
 }
